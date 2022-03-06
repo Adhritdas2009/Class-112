@@ -1,0 +1,9 @@
+#webcamera, #snapcam{
+  border: 2px dotted seagreen;
+  width: 300px;
+  height:300px;
+}
+
+#emoji_name1, #emoji_name2, #emoji1, #emoji2{
+  font-size: 50px;
+}
